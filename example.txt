@@ -1,1 +1,0 @@
-open_link{xcom}https://skillbox.ru/media/code/kak_napisat_programmu_bez_regulyarnykh_vyrazheniy/
